@@ -91,7 +91,7 @@ export const workData = [
     {
         title: 'UI/UX designing',
         description: 'UI/UX Design',
-        bgImage: '/UI-Work.png',
+        bgImage: '/UI-work.png',
         link: 'https://dribbble.com/Nabil_Fahlevi_A',
     },
     // {
