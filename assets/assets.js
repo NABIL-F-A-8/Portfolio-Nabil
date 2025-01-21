@@ -83,7 +83,7 @@ export const assets = {
 
 export const workData = [
     {
-        title: 'Frontend project',
+        title: 'Frontend project', 
         description: 'Web Design',
         bgImage: '/Web-work.png',
         link: 'https://github.com/NABIL-F-A-8?tab=projects',
